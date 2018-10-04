@@ -10,8 +10,6 @@ console.log(c1.value);
 
 //useful input event: input
 function changeColor() {
-	/*var c = e.target;
-	console.log(c.name +": " + c.value);*/
 	body.style.background = 
 	"linear-gradient(to right, " 
 	+ c0.value 
